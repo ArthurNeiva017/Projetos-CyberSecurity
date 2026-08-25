@@ -125,7 +125,7 @@ G7@mK!2qP#9xL4$z
 ```
 ---
 
-# 🔎 09 — Extrator de IOC
+# [🔎 09 — Extrator de IOC](https://github.com/ArthurNeiva017/Validador-de-Indicadores-de-Comprometimento-IOC)
 
 Ferramenta capaz de receber um texto e identificar automaticamente possíveis **Indicadores de Comprometimento**.
 
